@@ -1,0 +1,5 @@
+{
+  "title": "Husky Merge",
+  "description": "Convert data between CSV, Excel, Stata, SPSS and R, or merge it with census data (tracts, counties, states, cities, points) and download it with a Stata do-file and an R script that replicate every step. Runs in your browser; your files never leave your computer.",
+  "icon": "icon.png"
+}
